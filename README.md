@@ -3,7 +3,7 @@
 - Raises a separate notice when the Zoom client joins a meeting. Only the name of the first meeting server connected to is included in the notice - there may be several meeting servers, each used for different purposes but all associated with the same meeting.
 
 ## Background 
-See blog zeek.org/blog/. 
+See [zeek.org/blog/](https://zeek.org/blog/)  
 
 ## Requires   
 JA3 and JA3S. Errors will occur if you don't have JA3 loaded *prior* to got_zoom.  Get JA3 [here](https://github.com/salesforce/ja3 "JA3"). 
