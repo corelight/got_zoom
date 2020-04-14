@@ -1,0 +1,7 @@
+[package]
+description = Detect Zoom traffic
+tags = TLS
+version = 0.1
+script_dir = scripts
+depends =
+    bro >=2.5.5
