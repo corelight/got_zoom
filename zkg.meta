@@ -5,3 +5,4 @@ version = 0.1
 script_dir = scripts
 depends =
     bro >=2.5.5
+    ja3 *
