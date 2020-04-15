@@ -1,6 +1,6 @@
 [package]
 description = Detect Zoom traffic
-tags = TLS
+tags = TLS, SSL, JA3, Video conferencing, Video, Videoconferencing, Remote working, Zoom
 version = 0.1
 script_dir = scripts
 depends =
